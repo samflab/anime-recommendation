@@ -1,4 +1,5 @@
 {
+  "homepage": "http://samflab.github.io/anime-recommendation",
   "name": "anime-show-recommendation",
   "version": "1.0.0",
   "description": "",
@@ -11,9 +12,12 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^3.2.3",
     "typescript": "4.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
