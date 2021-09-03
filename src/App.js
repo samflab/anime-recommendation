@@ -10,6 +10,10 @@ const animeDB = {
     {
       name: "Angel Beats",
       rating: "8/10"
+    },
+    {
+      name: "Toradora",
+      rating: "9/10"
     }
   ],
   SliceOfLife: [
@@ -20,6 +24,10 @@ const animeDB = {
     {
       name: "Fruits Basket",
       rating: "9/10"
+    },
+    {
+      name: "Barakamon",
+      rating: "8/10"
     }
   ],
   Action: [
@@ -30,6 +38,10 @@ const animeDB = {
     {
       name: "Fairy Tail",
       rating: "10/10"
+    },
+    {
+      name: "One Piece",
+      rating: "8/10"
     }
   ]
 };
