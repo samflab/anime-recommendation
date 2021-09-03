@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,eAAgB,CAChB,WAAY,CACZ,YACF,CAEA,KACE,+BAAiC,CACjC,wBACF","file":"main.36ea60fe.chunk.css","sourcesContent":[".App {\r\n  max-width: 600px;\r\n  margin: auto;\r\n  padding: 2rem;\r\n}\r\n\r\nbody {\r\n  font-family: \"Roboto\", sans-serif;\r\n  background-color: aliceblue;\r\n}\r\n"]}
